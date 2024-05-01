@@ -1,0 +1,22 @@
+#div1{
+    display: inline-block ;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    background-color: rgb(176, 110, 110);
+    padding: 50px;
+    border: 3px solid rgb(16, 16, 15);
+    margin: 50px;
+   vertical-align: top;
+}
+#div2{
+    display: inline-block ;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    background-color: rgb(176, 110, 110);
+    padding: 50px;
+    border: 3px solid rgb(16, 16, 15);
+    margin: 50px;
+    overflow: scroll;
+}

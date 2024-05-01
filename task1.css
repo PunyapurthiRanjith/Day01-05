@@ -1,0 +1,34 @@
+div{
+    width: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    vertical-align: top;
+
+}
+#numbers{
+    display: inline;
+    text-align: center;
+    width: auto;
+    padding-left:700px;
+    padding-bottom: 100px;
+    border: 5px;
+
+    
+}
+#About{
+    margin-left: 300px;
+}
+#iam{
+    height: auto;
+    text-align: center;
+}
+#populartags{
+    padding-left: 10px;
+}
+#footer{
+    margin-left: 150px;
+}
